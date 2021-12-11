@@ -15,3 +15,5 @@ nums = [1,1]
 
 print(removeDuplicates(nums))
 print(nums)
+
+print("new codeS")
